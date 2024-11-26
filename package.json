@@ -67,7 +67,7 @@
     "style-loader": "1.0.0",
     "svg-sprite-loader": "4.1.6",
     "uglify-js": "3.3.23",
-    "underscore": "1.8.3",
+    "underscore": "1.12.1",
     "url-loader": "2.1.0",
     "webpack": "4.39.3",
     "webpack-bundle-analyzer": "2.13.1",
